@@ -123,3 +123,6 @@ Am also committing to play the [#Bet2Complete][b2c] Twitter game to be accountab
 `111`    |          |          | `Two-Front War` |
 `112`    |          |          | `Counterinsurgency` |
 `113`    |          |          | `Mutually Assured Destruction` |
+
+[fsblog]: https://www.fs.blog/mental-models/
+[b2c]: https://twitter.com/hashtag/Bet2Complete
